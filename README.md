@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/and102/hzigbClr.gif
+https://submissions.us-east-1.linodeobjects.com/and102/KTHOBP3F.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
